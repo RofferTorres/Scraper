@@ -14,3 +14,16 @@ This is a simple Python application designed for web scraping. It allows you to 
 
    ```bash
    git clone https://github.com/RofferTorres/Scraper.git
+2. Navigate into the project directory:
+
+   ```bash
+   cd Scraper
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+## Usage
+
+## License
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
+
