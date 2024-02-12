@@ -1,9 +1,16 @@
-## Scraper project with Django framework
+# Basic Scraper Application
 
-<!--
-**RofferTorres/RofferTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a simple Python application designed for web scraping. It allows you to extract data from web pages based on specified criteria.
 
-Here are some ideas to get you started:
--->
-### I currently learning Django to make some web applications with Python.
-This webapp let you insert a url and scrape every link founded inside..
+## Features
+
+- **Easy-to-Use**: Simple interface for initiating scraping tasks.
+- **Customizable**: Ability to specify target URLs and data extraction criteria.
+- **Modular Design**: Easily extendable for additional functionality.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/basic-scraper.git
