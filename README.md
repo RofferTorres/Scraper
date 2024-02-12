@@ -13,4 +13,4 @@ This is a simple Python application designed for web scraping. It allows you to 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/basic-scraper.git
+   git clone https://github.com/RofferTorres/Scraper.git
