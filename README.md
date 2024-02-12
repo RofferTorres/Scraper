@@ -25,5 +25,5 @@ This is a simple Python application designed for web scraping. It allows you to 
 ## Usage
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/RofferTorres/Scraper/blob/main/LICENSE) file for details.
 
