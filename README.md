@@ -28,7 +28,7 @@ This is a simple Python application designed for web scraping. It allows you to 
 2. Run the application:
 
    ```bash
-   cd ./Scraper/mysite && python manage.py runserver
+   cd ./mysite && python manage.py runserver
 3. Open you browser and go to 'http://localhost:8000/'
 4. Insert your target URL.
 5. The scraped data will be temporary saved inside the local datamodel and displayed into a table.
