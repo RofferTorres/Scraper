@@ -22,8 +22,17 @@ This is a simple Python application designed for web scraping. It allows you to 
 
    ```bash
    pip install -r requirements.txt
+   
 ## Usage
+1. Define your scraping logic into 'mysite/myapp/views.py' file.
+2. Run the application:
 
+   ```bash
+   cd ./Scraper/mysite && python manage.py runserver
+3. Open you browser and go to 'http://localhost:8000/'
+4. Insert your target URL.
+5. The scraped data will be temporary saved inside the local datamodel and displayed into a table.
+   
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/RofferTorres/Scraper/blob/main/LICENSE) file for details.
 
