@@ -68,23 +68,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](https:/
 
 ---
 
-## 📂 Project Structure
-
-```
-Scraper/
-├── mysite/
-│   ├── myapp/
-│   │   ├── templates/
-│   │   ├── views.py        # Scraping logic here
-│   │   ├── models.py
-│   │   └── ...
-│   ├── manage.py
-│   └── settings.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 💡 **Tip:**  
 You can extend this scraper by integrating libraries like `BeautifulSoup`, `Requests`, or `Scrapy` for more advanced extraction logic.
